@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data-driven ecological synthesis 2021 on </title>
-    <link>https://poisotlab.io/ddes/</link>
+    <link>https://glaroc.github.com/site-test/ddes/</link>
     <description>Recent content in Data-driven ecological synthesis 2021 on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-ca</language><atom:link href="https://poisotlab.io/ddes/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-ca</language><atom:link href="https://glaroc.github.com/site-test/ddes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data-driven ecological synthesis 2019</title>
-      <link>https://poisotlab.io/ddes/_draft/</link>
+      <link>https://glaroc.github.com/site-test/ddes/_draft/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://poisotlab.io/ddes/_draft/</guid>
+      <guid>https://glaroc.github.com/site-test/ddes/_draft/</guid>
       <description>We are organizing the fourth edition of our intensive class in data-driven ecological synthesis, with support from the Canadian Institute of Ecology &amp;amp; Evolution, and the NSERC BIOS2 CREATE program. You can apply on-line, or read the description below. Enrolment is limited to 24 students. The class will run from April 29 to May 5, at the Laurentians Field Station, just outside of Montréal.
 Goals and target audience This week-long intensive class will give early-career ecologists the tools and skills needed to interact with, manage, clean, and analyze data in a transparent and reproducible way.</description>
     </item>

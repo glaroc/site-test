@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Papers on </title>
-    <link>https://poisotlab.io/papers/</link>
+    <link>https://glaroc.github.com/site-test/papers/</link>
     <description>Recent content in Papers on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-ca</language><atom:link href="https://poisotlab.io/papers/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-ca</language><atom:link href="https://glaroc.github.com/site-test/papers/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

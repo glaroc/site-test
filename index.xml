@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://poisotlab.io/</link>
+    <link>https://glaroc.github.com/site-test/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-ca</language><atom:link href="https://poisotlab.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-ca</language><atom:link href="https://glaroc.github.com/site-test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Spatial ecology of species interactions</title>
-      <link>https://poisotlab.io/research/spatialinteractions/</link>
+      <link>https://glaroc.github.com/site-test/research/spatialinteractions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://poisotlab.io/research/spatialinteractions/</guid>
+      <guid>https://glaroc.github.com/site-test/research/spatialinteractions/</guid>
       <description>&lt;p&gt;Why is there variation in the way species interact over space or time? We
 analyse spatially and temporally replicated datasets of surveys of species
 interactions to measure the variation in the structure of ecological networks,
@@ -20,10 +20,10 @@ and describe its dynamics.&lt;/p&gt;</description>
     
     <item>
       <title>Prediction of species interactions</title>
-      <link>https://poisotlab.io/research/prediction/</link>
+      <link>https://glaroc.github.com/site-test/research/prediction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://poisotlab.io/research/prediction/</guid>
+      <guid>https://glaroc.github.com/site-test/research/prediction/</guid>
       <description>&lt;p&gt;Can we predict inter-specific interactions? We are interested in developing
 predictive models that would use different sources of information (functional
 traits, local abundances, previous knowledge, &amp;hellip;) to predict the probability
@@ -32,10 +32,10 @@ that two species will interact.&lt;/p&gt;</description>
     
     <item>
       <title>Data science for biodiversity research</title>
-      <link>https://poisotlab.io/research/datascience/</link>
+      <link>https://glaroc.github.com/site-test/research/datascience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://poisotlab.io/research/datascience/</guid>
+      <guid>https://glaroc.github.com/site-test/research/datascience/</guid>
       <description>&lt;p&gt;We believe that open data are a treasure trove of knowledge that has not been
 entirely used yet, and require ecologists to get curious about tools and
 practices from the field of data science. We explore applications of machine
@@ -44,10 +44,10 @@ learning and deep learning to biodiversity.&lt;/p&gt;</description>
     
     <item>
       <title>Ecology of viral pathogens</title>
-      <link>https://poisotlab.io/research/epidemics/</link>
+      <link>https://glaroc.github.com/site-test/research/epidemics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://poisotlab.io/research/epidemics/</guid>
+      <guid>https://glaroc.github.com/site-test/research/epidemics/</guid>
       <description>&lt;p&gt;Can we use ecological information to make predictions about emerging viral
 pathogens? We apply biotic interaction inference techniques, network analysis,
 and secies distributions models, to provide mapping of the risk posed by various
@@ -56,10 +56,10 @@ groups of pathogens.&lt;/p&gt;</description>
     
     <item>
       <title>Functional consequences of network structure</title>
-      <link>https://poisotlab.io/research/functional/</link>
+      <link>https://glaroc.github.com/site-test/research/functional/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://poisotlab.io/research/functional/</guid>
+      <guid>https://glaroc.github.com/site-test/research/functional/</guid>
       <description>&lt;p&gt;We are interested in turning the structure of networks into a predictive
 variable for community ecology; we are particularly interested in the role of
 trophic interactions in ecosystem functioning.&lt;/p&gt;</description>
@@ -67,10 +67,10 @@ trophic interactions in ecosystem functioning.&lt;/p&gt;</description>
     
     <item>
       <title>Data and software tools</title>
-      <link>https://poisotlab.io/research/tools/</link>
+      <link>https://glaroc.github.com/site-test/research/tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://poisotlab.io/research/tools/</guid>
+      <guid>https://glaroc.github.com/site-test/research/tools/</guid>
       <description>&lt;p&gt;Addressing new questions often requires to develop new tools. We develop
 statistical and mathematical approaches, implement them, and release them as
 free and open-source software to make analyses reproducible and reliable.&lt;/p&gt;</description>
@@ -78,20 +78,20 @@ free and open-source software to make analyses reproducible and reliable.&lt;/p&
     
     <item>
       <title>Data-driven ecological synthesis 2019</title>
-      <link>https://poisotlab.io/ddes/_draft/</link>
+      <link>https://glaroc.github.com/site-test/ddes/_draft/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://poisotlab.io/ddes/_draft/</guid>
+      <guid>https://glaroc.github.com/site-test/ddes/_draft/</guid>
       <description>We are organizing the fourth edition of our intensive class in data-driven ecological synthesis, with support from the Canadian Institute of Ecology &amp;amp; Evolution, and the NSERC BIOS2 CREATE program. You can apply on-line, or read the description below. Enrolment is limited to 24 students. The class will run from April 29 to May 5, at the Laurentians Field Station, just outside of Montréal.
 Goals and target audience This week-long intensive class will give early-career ecologists the tools and skills needed to interact with, manage, clean, and analyze data in a transparent and reproducible way.</description>
     </item>
     
     <item>
       <title>Timothée Poisot</title>
-      <link>https://poisotlab.io/people/tim/</link>
+      <link>https://glaroc.github.com/site-test/people/tim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://poisotlab.io/people/tim/</guid>
+      <guid>https://glaroc.github.com/site-test/people/tim/</guid>
       <description>Education PhD, Microbiology and Parasitology, Université Montpellier 2, 2011
 MSc, Ecology &amp;amp; Epidemiology of Parasitism, Université Montpellier 2, 2008
 Maîtrise, Immunology, Université de Versailles&amp;ndash;Saint-Quentin, 2007
