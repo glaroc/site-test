@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://poisotlab.io/research/spatialinteractions/</loc>
+  </url>
+  
+  <url>
+    <loc>https://poisotlab.io/research/prediction/</loc>
+  </url>
+  
+  <url>
+    <loc>https://poisotlab.io/research/datascience/</loc>
+  </url>
+  
+  <url>
+    <loc>https://poisotlab.io/research/epidemics/</loc>
+  </url>
+  
+  <url>
+    <loc>https://poisotlab.io/research/functional/</loc>
+  </url>
+  
+  <url>
+    <loc>https://poisotlab.io/research/tools/</loc>
+  </url>
+  
+  <url>
+    <loc>https://poisotlab.io/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://poisotlab.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://poisotlab.io/ddes/_draft/</loc>
+  </url>
+  
+  <url>
+    <loc>https://poisotlab.io/ddes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://poisotlab.io/opportunities/</loc>
+  </url>
+  
+  <url>
+    <loc>https://poisotlab.io/papers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://poisotlab.io/people/</loc>
+  </url>
+  
+  <url>
+    <loc>https://poisotlab.io/research/</loc>
+  </url>
+  
+  <url>
+    <loc>https://poisotlab.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://poisotlab.io/people/tim/</loc>
+  </url>
+  
+  <url>
+    <loc>https://poisotlab.io/values/</loc>
+  </url>
+  
+</urlset>
